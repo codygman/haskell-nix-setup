@@ -16,8 +16,6 @@ library
 
   build-depends:
       base >=4.12 && <4.13
-    , eventsourcing
-    , hedgehog
     , text
 
 executable hello
